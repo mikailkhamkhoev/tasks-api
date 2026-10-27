@@ -1,0 +1,5 @@
+/tasks
+*.exe
+.vscode/
+.idea/
+.DS_Store
